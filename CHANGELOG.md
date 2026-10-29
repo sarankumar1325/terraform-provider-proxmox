@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.119.1](https://github.com/bpg/terraform-provider-proxmox/compare/v0.119.0...v0.119.1) (2026-10-29)
+
+
+### Bug Fixes
+
+* **vm:** infer disk format from volume name, skip storage API ([#3235](https://github.com/bpg/terraform-provider-proxmox/issues/3235)) ([346ff79](https://github.com/bpg/terraform-provider-proxmox/commit/346ff799521a42a3b322f99ae6356d37c8bb42ac))
+
 ## [0.119.0](https://github.com/bpg/terraform-provider-proxmox/compare/v0.118.1...v0.119.0) (2026-10-29)
 
 
